@@ -1526,15 +1526,6 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
-        'sendinblue/api-v3-sdk' => array(
-            'pretty_version' => 'v8.4.2',
-            'version' => '8.4.2.0',
-            'reference' => '5d08398c7247a2f5d80f285d08a6dbe169f18eab',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../sendinblue/api-v3-sdk',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'sensio/framework-extra-bundle' => array(
             'pretty_version' => 'v5.6.1',
             'version' => '5.6.1.0',

@@ -215,7 +215,6 @@ class ComposerStaticInit0eaee4a81c4752b7f97bd83a8225f4e3
             'Symfony\\Bridge\\Monolog\\' => 23,
             'Symfony\\Bridge\\Doctrine\\' => 24,
             'Sensio\\Bundle\\FrameworkExtraBundle\\' => 35,
-            'SendinBlue\\Client\\' => 18,
             'Scheb\\TwoFactorBundle\\' => 22,
             'Safe\\' => 5,
         ),
@@ -842,10 +841,6 @@ class ComposerStaticInit0eaee4a81c4752b7f97bd83a8225f4e3
         'Sensio\\Bundle\\FrameworkExtraBundle\\' => 
         array (
             0 => __DIR__ . '/..' . '/sensio/framework-extra-bundle/src',
-        ),
-        'SendinBlue\\Client\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/sendinblue/api-v3-sdk/lib',
         ),
         'Scheb\\TwoFactorBundle\\' => 
         array (
